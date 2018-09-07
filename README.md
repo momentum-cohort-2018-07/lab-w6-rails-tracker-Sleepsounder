@@ -6,7 +6,8 @@ For this two-day project you will build an api-only application that lets a sing
 
 Basic CRUD functions should be available via your API: an api user should be able to retrieve a creature or note, add an entry for a new creature or note, and delete a creature or note. If you finish that, implement the functionality to edit creatures and notes and search for a creature based on url params.
 
-### Models
+### Models  
+Models
 
 A creature should have at least a name and/or a species (or a common name and a scientific name...you get the idea) and a status (this is up to you, but consider something indicating whether it has been seen or not yet seen).
 
