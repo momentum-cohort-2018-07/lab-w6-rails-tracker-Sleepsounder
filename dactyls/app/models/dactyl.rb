@@ -1,0 +1,3 @@
+class Dactyl < ApplicationRecord
+    
+end
